@@ -13,11 +13,10 @@ body{
     background: url(soldado.png) no-repeat ;
     width: 200px;
     height: 220px;
-    border: solid red 2px;
+    
     position: relative;
-    margin-left: 140px;
-    margin-top: -840px;
-    border-radius: 60px;
+    margin: 0 auto;
+    margin-top: -800px;
 
 }
 .fig:hover{
@@ -31,4 +30,8 @@ body{
     background-color: rgb(126, 145, 128);
     border-radius: 20px;
     font-family: 'Silkscreen', cursive;
+}
+.as{
+    color: aliceblue;
+
 }
